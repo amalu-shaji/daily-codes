@@ -1,0 +1,8 @@
+D:\UST\day4\practicing\3\3\bin\Debug\3.exe.config
+D:\UST\day4\practicing\3\3\bin\Debug\3.exe
+D:\UST\day4\practicing\3\3\bin\Debug\3.pdb
+D:\UST\day4\practicing\3\3\obj\Debug\3.csproj.AssemblyReference.cache
+D:\UST\day4\practicing\3\3\obj\Debug\3.csproj.SuggestedBindingRedirects.cache
+D:\UST\day4\practicing\3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\UST\day4\practicing\3\3\obj\Debug\3.exe
+D:\UST\day4\practicing\3\3\obj\Debug\3.pdb
