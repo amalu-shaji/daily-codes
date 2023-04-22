@@ -1,0 +1,8 @@
+D:\UST\day10\namespace\namespace\bin\Debug\@namespace.exe.config
+D:\UST\day10\namespace\namespace\bin\Debug\@namespace.exe
+D:\UST\day10\namespace\namespace\bin\Debug\@namespace.pdb
+D:\UST\day10\namespace\namespace\obj\Debug\namespace.csproj.AssemblyReference.cache
+D:\UST\day10\namespace\namespace\obj\Debug\namespace.csproj.SuggestedBindingRedirects.cache
+D:\UST\day10\namespace\namespace\obj\Debug\namespace.csproj.CoreCompileInputs.cache
+D:\UST\day10\namespace\namespace\obj\Debug\@namespace.exe
+D:\UST\day10\namespace\namespace\obj\Debug\@namespace.pdb
