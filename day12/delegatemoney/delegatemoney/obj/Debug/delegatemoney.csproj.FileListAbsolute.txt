@@ -1,0 +1,8 @@
+D:\UST\day12\delegatemoney\delegatemoney\bin\Debug\delegatemoney.exe.config
+D:\UST\day12\delegatemoney\delegatemoney\bin\Debug\delegatemoney.exe
+D:\UST\day12\delegatemoney\delegatemoney\bin\Debug\delegatemoney.pdb
+D:\UST\day12\delegatemoney\delegatemoney\obj\Debug\delegatemoney.csproj.AssemblyReference.cache
+D:\UST\day12\delegatemoney\delegatemoney\obj\Debug\delegatemoney.csproj.SuggestedBindingRedirects.cache
+D:\UST\day12\delegatemoney\delegatemoney\obj\Debug\delegatemoney.csproj.CoreCompileInputs.cache
+D:\UST\day12\delegatemoney\delegatemoney\obj\Debug\delegatemoney.exe
+D:\UST\day12\delegatemoney\delegatemoney\obj\Debug\delegatemoney.pdb
