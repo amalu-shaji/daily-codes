@@ -1,8 +1,0 @@
-D:\UST\day12\exception\exception\bin\Debug\exception.exe.config
-D:\UST\day12\exception\exception\bin\Debug\exception.exe
-D:\UST\day12\exception\exception\bin\Debug\exception.pdb
-D:\UST\day12\exception\exception\obj\Debug\exception.csproj.AssemblyReference.cache
-D:\UST\day12\exception\exception\obj\Debug\exception.csproj.SuggestedBindingRedirects.cache
-D:\UST\day12\exception\exception\obj\Debug\exception.csproj.CoreCompileInputs.cache
-D:\UST\day12\exception\exception\obj\Debug\exception.exe
-D:\UST\day12\exception\exception\obj\Debug\exception.pdb

@@ -1,8 +1,0 @@
-D:\UST\day12\delegate\delegate\bin\Debug\@delegate.exe.config
-D:\UST\day12\delegate\delegate\bin\Debug\@delegate.exe
-D:\UST\day12\delegate\delegate\bin\Debug\@delegate.pdb
-D:\UST\day12\delegate\delegate\obj\Debug\delegate.csproj.AssemblyReference.cache
-D:\UST\day12\delegate\delegate\obj\Debug\delegate.csproj.SuggestedBindingRedirects.cache
-D:\UST\day12\delegate\delegate\obj\Debug\delegate.csproj.CoreCompileInputs.cache
-D:\UST\day12\delegate\delegate\obj\Debug\@delegate.exe
-D:\UST\day12\delegate\delegate\obj\Debug\@delegate.pdb
