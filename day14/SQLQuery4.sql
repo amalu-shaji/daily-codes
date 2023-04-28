@@ -1,0 +1,1 @@
+select deptid ,count(*) from emp group by deptid
