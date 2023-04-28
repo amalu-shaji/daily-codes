@@ -1,0 +1,8 @@
+D:\UST\day17\songreq_3\SONGreq5\obj\Debug\SONGreq5.csproj.AssemblyReference.cache
+D:\UST\day17\songreq_3\SONGreq5\obj\Debug\SONGreq5.csproj.SuggestedBindingRedirects.cache
+D:\UST\day17\songreq_3\SONGreq5\obj\Debug\SONGreq5.csproj.CoreCompileInputs.cache
+D:\UST\day17\songreq_3\SONGreq5\bin\Debug\SONGreq5.exe.config
+D:\UST\day17\songreq_3\SONGreq5\bin\Debug\SONGreq5.exe
+D:\UST\day17\songreq_3\SONGreq5\bin\Debug\SONGreq5.pdb
+D:\UST\day17\songreq_3\SONGreq5\obj\Debug\SONGreq5.exe
+D:\UST\day17\songreq_3\SONGreq5\obj\Debug\SONGreq5.pdb

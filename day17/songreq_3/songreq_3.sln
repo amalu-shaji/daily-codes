@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "songreq_3", "songreq_3\songreq_3.csproj", "{C41199B2-1724-428A-9B31-A813E88E9F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "song_req4", "song_req4\song_req4.csproj", "{67130439-394C-47D4-AE6C-639827511E56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SONGreq5", "SONGreq5\SONGreq5.csproj", "{59A56E61-31F8-48E4-8C37-AA2C151CA608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C41199B2-1724-428A-9B31-A813E88E9F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41199B2-1724-428A-9B31-A813E88E9F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41199B2-1724-428A-9B31-A813E88E9F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41199B2-1724-428A-9B31-A813E88E9F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67130439-394C-47D4-AE6C-639827511E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67130439-394C-47D4-AE6C-639827511E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67130439-394C-47D4-AE6C-639827511E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67130439-394C-47D4-AE6C-639827511E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A56E61-31F8-48E4-8C37-AA2C151CA608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A56E61-31F8-48E4-8C37-AA2C151CA608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A56E61-31F8-48E4-8C37-AA2C151CA608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A56E61-31F8-48E4-8C37-AA2C151CA608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54A73D8B-6FB8-4773-87EF-F6C4C7A5D8CE}
+	EndGlobalSection
+EndGlobal

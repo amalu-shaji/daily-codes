@@ -1,0 +1,16 @@
+D:\UST\day  16\songreq_3\songreq_3\obj\Debug\songreq_3.csproj.AssemblyReference.cache
+D:\UST\day  16\songreq_3\songreq_3\obj\Debug\songreq_3.csproj.SuggestedBindingRedirects.cache
+D:\UST\day  16\songreq_3\songreq_3\obj\Debug\songreq_3.csproj.CoreCompileInputs.cache
+D:\UST\day  16\songreq_3\songreq_3\bin\Debug\songreq_3.exe.config
+D:\UST\day  16\songreq_3\songreq_3\bin\Debug\songreq_3.exe
+D:\UST\day  16\songreq_3\songreq_3\bin\Debug\songreq_3.pdb
+D:\UST\day  16\songreq_3\songreq_3\obj\Debug\songreq_3.exe
+D:\UST\day  16\songreq_3\songreq_3\obj\Debug\songreq_3.pdb
+D:\UST\day17\songreq_3\songreq_3\obj\Debug\songreq_3.csproj.AssemblyReference.cache
+D:\UST\day17\songreq_3\songreq_3\obj\Debug\songreq_3.csproj.SuggestedBindingRedirects.cache
+D:\UST\day17\songreq_3\songreq_3\obj\Debug\songreq_3.csproj.CoreCompileInputs.cache
+D:\UST\day17\songreq_3\songreq_3\obj\Debug\songreq_3.exe
+D:\UST\day17\songreq_3\songreq_3\obj\Debug\songreq_3.pdb
+D:\UST\day17\songreq_3\songreq_3\bin\Debug\songreq_3.exe.config
+D:\UST\day17\songreq_3\songreq_3\bin\Debug\songreq_3.exe
+D:\UST\day17\songreq_3\songreq_3\bin\Debug\songreq_3.pdb

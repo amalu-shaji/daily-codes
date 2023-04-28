@@ -1,0 +1,8 @@
+D:\UST\day  16\songreq_3\song_req4\obj\Debug\song_req4.csproj.AssemblyReference.cache
+D:\UST\day  16\songreq_3\song_req4\obj\Debug\song_req4.csproj.SuggestedBindingRedirects.cache
+D:\UST\day  16\songreq_3\song_req4\obj\Debug\song_req4.csproj.CoreCompileInputs.cache
+D:\UST\day  16\songreq_3\song_req4\bin\Debug\song_req4.exe.config
+D:\UST\day  16\songreq_3\song_req4\bin\Debug\song_req4.exe
+D:\UST\day  16\songreq_3\song_req4\bin\Debug\song_req4.pdb
+D:\UST\day  16\songreq_3\song_req4\obj\Debug\song_req4.exe
+D:\UST\day  16\songreq_3\song_req4\obj\Debug\song_req4.pdb
