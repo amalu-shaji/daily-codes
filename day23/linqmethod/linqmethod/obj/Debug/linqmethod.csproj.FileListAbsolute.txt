@@ -1,0 +1,8 @@
+D:\UST\day23\linqmethod\linqmethod\bin\Debug\linqmethod.exe.config
+D:\UST\day23\linqmethod\linqmethod\bin\Debug\linqmethod.exe
+D:\UST\day23\linqmethod\linqmethod\bin\Debug\linqmethod.pdb
+D:\UST\day23\linqmethod\linqmethod\obj\Debug\linqmethod.csproj.AssemblyReference.cache
+D:\UST\day23\linqmethod\linqmethod\obj\Debug\linqmethod.csproj.SuggestedBindingRedirects.cache
+D:\UST\day23\linqmethod\linqmethod\obj\Debug\linqmethod.csproj.CoreCompileInputs.cache
+D:\UST\day23\linqmethod\linqmethod\obj\Debug\linqmethod.exe
+D:\UST\day23\linqmethod\linqmethod\obj\Debug\linqmethod.pdb

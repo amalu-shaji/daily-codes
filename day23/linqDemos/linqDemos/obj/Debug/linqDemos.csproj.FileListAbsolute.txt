@@ -1,0 +1,8 @@
+D:\UST\day23\linqDemos\linqDemos\obj\Debug\linqDemos.csproj.AssemblyReference.cache
+D:\UST\day23\linqDemos\linqDemos\obj\Debug\linqDemos.csproj.SuggestedBindingRedirects.cache
+D:\UST\day23\linqDemos\linqDemos\obj\Debug\linqDemos.csproj.CoreCompileInputs.cache
+D:\UST\day23\linqDemos\linqDemos\bin\Debug\linqDemos.exe.config
+D:\UST\day23\linqDemos\linqDemos\bin\Debug\linqDemos.exe
+D:\UST\day23\linqDemos\linqDemos\bin\Debug\linqDemos.pdb
+D:\UST\day23\linqDemos\linqDemos\obj\Debug\linqDemos.exe
+D:\UST\day23\linqDemos\linqDemos\obj\Debug\linqDemos.pdb
