@@ -1,0 +1,8 @@
+D:\UST\day22\linq4\linq4\bin\Debug\linq4.exe.config
+D:\UST\day22\linq4\linq4\bin\Debug\linq4.exe
+D:\UST\day22\linq4\linq4\bin\Debug\linq4.pdb
+D:\UST\day22\linq4\linq4\obj\Debug\linq4.csproj.AssemblyReference.cache
+D:\UST\day22\linq4\linq4\obj\Debug\linq4.csproj.SuggestedBindingRedirects.cache
+D:\UST\day22\linq4\linq4\obj\Debug\linq4.csproj.CoreCompileInputs.cache
+D:\UST\day22\linq4\linq4\obj\Debug\linq4.exe
+D:\UST\day22\linq4\linq4\obj\Debug\linq4.pdb

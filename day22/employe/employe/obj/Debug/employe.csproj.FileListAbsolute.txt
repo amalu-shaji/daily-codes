@@ -1,0 +1,8 @@
+D:\UST\day22\employe\employe\bin\Debug\employe.exe.config
+D:\UST\day22\employe\employe\bin\Debug\employe.exe
+D:\UST\day22\employe\employe\bin\Debug\employe.pdb
+D:\UST\day22\employe\employe\obj\Debug\employe.csproj.AssemblyReference.cache
+D:\UST\day22\employe\employe\obj\Debug\employe.csproj.SuggestedBindingRedirects.cache
+D:\UST\day22\employe\employe\obj\Debug\employe.csproj.CoreCompileInputs.cache
+D:\UST\day22\employe\employe\obj\Debug\employe.exe
+D:\UST\day22\employe\employe\obj\Debug\employe.pdb
