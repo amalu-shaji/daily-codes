@@ -1,0 +1,8 @@
+D:\UST\day 1\SUM OF 2 NUMBERS\SUM OF 2 NUMBERS\bin\Debug\SUM OF 2 NUMBERS.exe.config
+D:\UST\day 1\SUM OF 2 NUMBERS\SUM OF 2 NUMBERS\bin\Debug\SUM OF 2 NUMBERS.exe
+D:\UST\day 1\SUM OF 2 NUMBERS\SUM OF 2 NUMBERS\bin\Debug\SUM OF 2 NUMBERS.pdb
+D:\UST\day 1\SUM OF 2 NUMBERS\SUM OF 2 NUMBERS\obj\Debug\SUM OF 2 NUMBERS.csproj.AssemblyReference.cache
+D:\UST\day 1\SUM OF 2 NUMBERS\SUM OF 2 NUMBERS\obj\Debug\SUM OF 2 NUMBERS.csproj.SuggestedBindingRedirects.cache
+D:\UST\day 1\SUM OF 2 NUMBERS\SUM OF 2 NUMBERS\obj\Debug\SUM OF 2 NUMBERS.csproj.CoreCompileInputs.cache
+D:\UST\day 1\SUM OF 2 NUMBERS\SUM OF 2 NUMBERS\obj\Debug\SUM OF 2 NUMBERS.exe
+D:\UST\day 1\SUM OF 2 NUMBERS\SUM OF 2 NUMBERS\obj\Debug\SUM OF 2 NUMBERS.pdb
