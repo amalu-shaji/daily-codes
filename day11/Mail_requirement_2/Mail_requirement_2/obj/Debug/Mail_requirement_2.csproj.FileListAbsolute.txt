@@ -1,8 +1,0 @@
-D:\UST\day13\Mail_requirement_2\Mail_requirement_2\bin\Debug\Mail_requirement_2.exe.config
-D:\UST\day13\Mail_requirement_2\Mail_requirement_2\bin\Debug\Mail_requirement_2.exe
-D:\UST\day13\Mail_requirement_2\Mail_requirement_2\bin\Debug\Mail_requirement_2.pdb
-D:\UST\day13\Mail_requirement_2\Mail_requirement_2\obj\Debug\Mail_requirement_2.csproj.AssemblyReference.cache
-D:\UST\day13\Mail_requirement_2\Mail_requirement_2\obj\Debug\Mail_requirement_2.csproj.SuggestedBindingRedirects.cache
-D:\UST\day13\Mail_requirement_2\Mail_requirement_2\obj\Debug\Mail_requirement_2.csproj.CoreCompileInputs.cache
-D:\UST\day13\Mail_requirement_2\Mail_requirement_2\obj\Debug\Mail_requirement_2.exe
-D:\UST\day13\Mail_requirement_2\Mail_requirement_2\obj\Debug\Mail_requirement_2.pdb
