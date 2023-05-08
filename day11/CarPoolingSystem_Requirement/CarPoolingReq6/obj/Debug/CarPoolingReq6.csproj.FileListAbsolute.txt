@@ -1,0 +1,8 @@
+D:\UST\day11\CarPoolingSystem_Requirement\CarPoolingReq6\bin\Debug\CarPoolingReq6.exe.config
+D:\UST\day11\CarPoolingSystem_Requirement\CarPoolingReq6\bin\Debug\CarPoolingReq6.exe
+D:\UST\day11\CarPoolingSystem_Requirement\CarPoolingReq6\bin\Debug\CarPoolingReq6.pdb
+D:\UST\day11\CarPoolingSystem_Requirement\CarPoolingReq6\obj\Debug\CarPoolingReq6.csproj.AssemblyReference.cache
+D:\UST\day11\CarPoolingSystem_Requirement\CarPoolingReq6\obj\Debug\CarPoolingReq6.csproj.SuggestedBindingRedirects.cache
+D:\UST\day11\CarPoolingSystem_Requirement\CarPoolingReq6\obj\Debug\CarPoolingReq6.csproj.CoreCompileInputs.cache
+D:\UST\day11\CarPoolingSystem_Requirement\CarPoolingReq6\obj\Debug\CarPoolingReq6.exe
+D:\UST\day11\CarPoolingSystem_Requirement\CarPoolingReq6\obj\Debug\CarPoolingReq6.pdb
