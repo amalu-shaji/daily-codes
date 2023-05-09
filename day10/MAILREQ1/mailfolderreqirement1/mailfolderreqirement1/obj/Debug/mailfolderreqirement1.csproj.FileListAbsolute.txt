@@ -1,8 +1,0 @@
-D:\UST\day10\MAILREQ1\mailfolderreqirement1\mailfolderreqirement1\obj\Debug\mailfolderreqirement1.csproj.AssemblyReference.cache
-D:\UST\day10\MAILREQ1\mailfolderreqirement1\mailfolderreqirement1\obj\Debug\mailfolderreqirement1.csproj.SuggestedBindingRedirects.cache
-D:\UST\day10\MAILREQ1\mailfolderreqirement1\mailfolderreqirement1\obj\Debug\mailfolderreqirement1.csproj.CoreCompileInputs.cache
-D:\UST\day10\MAILREQ1\mailfolderreqirement1\mailfolderreqirement1\bin\Debug\mailfolderreqirement1.exe.config
-D:\UST\day10\MAILREQ1\mailfolderreqirement1\mailfolderreqirement1\bin\Debug\mailfolderreqirement1.exe
-D:\UST\day10\MAILREQ1\mailfolderreqirement1\mailfolderreqirement1\bin\Debug\mailfolderreqirement1.pdb
-D:\UST\day10\MAILREQ1\mailfolderreqirement1\mailfolderreqirement1\obj\Debug\mailfolderreqirement1.exe
-D:\UST\day10\MAILREQ1\mailfolderreqirement1\mailfolderreqirement1\obj\Debug\mailfolderreqirement1.pdb
