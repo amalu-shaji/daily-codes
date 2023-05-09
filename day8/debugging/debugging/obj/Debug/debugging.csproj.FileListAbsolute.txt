@@ -1,0 +1,8 @@
+D:\UST\day8\debugging\debugging\bin\Debug\debugging.exe.config
+D:\UST\day8\debugging\debugging\bin\Debug\debugging.exe
+D:\UST\day8\debugging\debugging\bin\Debug\debugging.pdb
+D:\UST\day8\debugging\debugging\obj\Debug\debugging.csproj.AssemblyReference.cache
+D:\UST\day8\debugging\debugging\obj\Debug\debugging.csproj.SuggestedBindingRedirects.cache
+D:\UST\day8\debugging\debugging\obj\Debug\debugging.csproj.CoreCompileInputs.cache
+D:\UST\day8\debugging\debugging\obj\Debug\debugging.exe
+D:\UST\day8\debugging\debugging\obj\Debug\debugging.pdb
