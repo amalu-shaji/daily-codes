@@ -1,0 +1,8 @@
+D:\UST\DAY29\search\search\bin\Debug\search.exe.config
+D:\UST\DAY29\search\search\bin\Debug\search.exe
+D:\UST\DAY29\search\search\bin\Debug\search.pdb
+D:\UST\DAY29\search\search\obj\Debug\search.csproj.AssemblyReference.cache
+D:\UST\DAY29\search\search\obj\Debug\search.csproj.SuggestedBindingRedirects.cache
+D:\UST\DAY29\search\search\obj\Debug\search.csproj.CoreCompileInputs.cache
+D:\UST\DAY29\search\search\obj\Debug\search.exe
+D:\UST\DAY29\search\search\obj\Debug\search.pdb

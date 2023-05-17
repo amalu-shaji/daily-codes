@@ -1,0 +1,8 @@
+D:\UST\DAY29\REVERSE\REVERSE\bin\Debug\REVERSE.exe.config
+D:\UST\DAY29\REVERSE\REVERSE\bin\Debug\REVERSE.exe
+D:\UST\DAY29\REVERSE\REVERSE\bin\Debug\REVERSE.pdb
+D:\UST\DAY29\REVERSE\REVERSE\obj\Debug\REVERSE.csproj.AssemblyReference.cache
+D:\UST\DAY29\REVERSE\REVERSE\obj\Debug\REVERSE.csproj.SuggestedBindingRedirects.cache
+D:\UST\DAY29\REVERSE\REVERSE\obj\Debug\REVERSE.csproj.CoreCompileInputs.cache
+D:\UST\DAY29\REVERSE\REVERSE\obj\Debug\REVERSE.exe
+D:\UST\DAY29\REVERSE\REVERSE\obj\Debug\REVERSE.pdb
