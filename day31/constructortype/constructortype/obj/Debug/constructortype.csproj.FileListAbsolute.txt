@@ -1,0 +1,8 @@
+D:\UST\day31\constructortype\constructortype\bin\Debug\constructortype.exe.config
+D:\UST\day31\constructortype\constructortype\bin\Debug\constructortype.exe
+D:\UST\day31\constructortype\constructortype\bin\Debug\constructortype.pdb
+D:\UST\day31\constructortype\constructortype\obj\Debug\constructortype.csproj.AssemblyReference.cache
+D:\UST\day31\constructortype\constructortype\obj\Debug\constructortype.csproj.SuggestedBindingRedirects.cache
+D:\UST\day31\constructortype\constructortype\obj\Debug\constructortype.csproj.CoreCompileInputs.cache
+D:\UST\day31\constructortype\constructortype\obj\Debug\constructortype.exe
+D:\UST\day31\constructortype\constructortype\obj\Debug\constructortype.pdb
