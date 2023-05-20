@@ -1,0 +1,3 @@
+D:\UST\day34\SINGLETON\SINGLETON\obj\Debug\SINGLETON.csproj.AssemblyReference.cache
+D:\UST\day34\SINGLETON\SINGLETON\obj\Debug\SINGLETON.csproj.SuggestedBindingRedirects.cache
+D:\UST\day34\SINGLETON\SINGLETON\obj\Debug\SINGLETON.csproj.CoreCompileInputs.cache
