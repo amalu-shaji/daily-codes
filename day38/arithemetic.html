@@ -1,0 +1,114 @@
+<html>
+
+
+
+<head>
+
+ <title>Arithmetic Calculator</title>
+
+ <script>
+
+ function calculate() {
+
+  // Get input values
+
+  var num1 = parseFloat(document.getElementById('num1').value);
+
+  var num2 = parseFloat(document.getElementById('num2').value);
+
+  var operator = document.getElementById('operator').value;
+
+  // Perform the selected arithmetic operation
+
+  var result;
+
+  switch (operator) {
+
+  case '+':
+
+   result = num1 + num2;
+
+   break;
+
+  case '-':
+
+   result = num1 - num2;
+
+   break;
+
+  case '*':
+
+   result = num1 * num2;
+
+   break;
+
+  case '/':
+
+   result = num1 / num2;
+
+   break;
+
+  }
+
+  // Display the result
+
+  document.getElementById('result').value = result;
+
+ }
+
+ </script>
+
+</head>
+
+<body>
+
+ <h1>Arithmetic Calculator</h1>
+
+ <label for="num1">Number 1:</label>
+
+ <input type="text" id="num1" /><br/>
+
+ <label for="num2">Number 2:</label>
+
+ <input type="text" id="num2" /><br/>
+
+ <label for="operator">Operator:</label>
+
+ <select id="operator">
+
+ <option value="+">+</option>
+
+ <option value="-">-</option>
+
+ <option value="*">*</option>
+
+ <option value="/">/</option>
+
+ </select><br/>
+
+ <button onclick="calculate()">Calculate</button><br/>
+
+ <label for="result">Result:</label>
+
+ <input type="text" id="result" readonly />
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
