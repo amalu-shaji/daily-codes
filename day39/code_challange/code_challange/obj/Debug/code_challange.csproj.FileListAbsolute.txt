@@ -1,0 +1,16 @@
+D:\UST\day34\code_challange\code_challange\bin\Debug\code_challange.exe.config
+D:\UST\day34\code_challange\code_challange\bin\Debug\code_challange.exe
+D:\UST\day34\code_challange\code_challange\bin\Debug\code_challange.pdb
+D:\UST\day34\code_challange\code_challange\obj\Debug\code_challange.csproj.AssemblyReference.cache
+D:\UST\day34\code_challange\code_challange\obj\Debug\code_challange.csproj.SuggestedBindingRedirects.cache
+D:\UST\day34\code_challange\code_challange\obj\Debug\code_challange.csproj.CoreCompileInputs.cache
+D:\UST\day34\code_challange\code_challange\obj\Debug\code_challange.exe
+D:\UST\day34\code_challange\code_challange\obj\Debug\code_challange.pdb
+D:\UST\day39\code_challange\code_challange\bin\Debug\code_challange.exe.config
+D:\UST\day39\code_challange\code_challange\bin\Debug\code_challange.exe
+D:\UST\day39\code_challange\code_challange\bin\Debug\code_challange.pdb
+D:\UST\day39\code_challange\code_challange\obj\Debug\code_challange.csproj.AssemblyReference.cache
+D:\UST\day39\code_challange\code_challange\obj\Debug\code_challange.csproj.SuggestedBindingRedirects.cache
+D:\UST\day39\code_challange\code_challange\obj\Debug\code_challange.csproj.CoreCompileInputs.cache
+D:\UST\day39\code_challange\code_challange\obj\Debug\code_challange.exe
+D:\UST\day39\code_challange\code_challange\obj\Debug\code_challange.pdb
