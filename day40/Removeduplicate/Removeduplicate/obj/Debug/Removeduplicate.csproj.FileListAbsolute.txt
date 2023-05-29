@@ -1,0 +1,8 @@
+D:\UST\day40\Removeduplicate\Removeduplicate\bin\Debug\Removeduplicate.exe.config
+D:\UST\day40\Removeduplicate\Removeduplicate\bin\Debug\Removeduplicate.exe
+D:\UST\day40\Removeduplicate\Removeduplicate\bin\Debug\Removeduplicate.pdb
+D:\UST\day40\Removeduplicate\Removeduplicate\obj\Debug\Removeduplicate.csproj.AssemblyReference.cache
+D:\UST\day40\Removeduplicate\Removeduplicate\obj\Debug\Removeduplicate.csproj.SuggestedBindingRedirects.cache
+D:\UST\day40\Removeduplicate\Removeduplicate\obj\Debug\Removeduplicate.csproj.CoreCompileInputs.cache
+D:\UST\day40\Removeduplicate\Removeduplicate\obj\Debug\Removeduplicate.exe
+D:\UST\day40\Removeduplicate\Removeduplicate\obj\Debug\Removeduplicate.pdb
