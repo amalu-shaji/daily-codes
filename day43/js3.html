@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+ <title>Delayed Messages</title>
+
+ <script>
+
+  function showMessage1() {
+
+   document.getElementById("output").innerHTML = "Amalu shaji";
+
+  }
+
+  function showMessage2() {
+
+   document.getElementById("output").innerHTML = "Learning javasript";
+
+  }
+
+  function showMessage3() {
+
+   document.getElementById("output").innerHTML = "Learning setTimeOut method";
+
+  }
+
+  setTimeout(showMessage1, 3000); // Display message after 3 seconds
+
+  setTimeout(showMessage2, 5000); // Display message after 5 seconds
+
+  setTimeout(showMessage3, 10000); // Display message after 10 seconds
+
+ </script>
+
+</head>
+
+<body>
+
+ <h1>Delayed Messages</h1>
+
+ <div id="output"></div>
+
+</body>
+
+</html>
+

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+ <title>Email Categorization</title>
+
+ <style>
+
+  ul {
+
+   list-style-type: none;
+
+  }
+
+  li {
+
+   margin-bottom: 5px;
+
+  }
+
+ </style>
+
+</head>
+
+<body>
+
+ <h1>Email Categorization</h1>
+
+ <h2>Google:</h2>
+
+ <ul id="googleEmails"></ul>
+
+ <h2>Yahoo:</h2>
+
+ <ul id="yahooEmails"></ul>
+
+ <h2>Hotmail:</h2>
+
+ <ul id="hotmailEmails"></ul>
+
+ <h2>Others:</h2>
+
+ <ul id="otherEmails"></ul>
+
+ <script>
+
+  var emails = [
+
+   "abc@gmail.com",
+
+   "frg@yahoo.com",
+
+   "hgjhg@hotmail.com",
+
+   "hjkgh@infy.com",
+
+   // Add more email addresses here
+
+  ];
+
+  var categorizedEmails = {
+
+   Google: [],
+
+   Yahoo: [],
+
+   Hotmail: [],
+
+   Others: [],
+
+  };
+
+  for (var i = 0; i < emails.length; i++) {
+
+   var email = emails[i];
+
+   var domain = email.split("@")[1];
+
+   switch (domain) {
+
+    case "gmail.com":
+
+     categorizedEmails.Google.push(email);
+
+     break;
+
+    case "yahoo.com":
+
+     categorizedEmails.Yahoo.push(email);
+
+     break;
+
+    case "hotmail.com":
+
+     categorizedEmails.Hotmail.push(email);
+
+     break;
+
+    default:
+
+     categorizedEmails.Others.push(email);
+
+     break;
+
+   }
+
+  }
+
+  function displayEmails(category, containerId) {
+
+   var container = document.getElementById(containerId);
+
+   var emails = categorizedEmails[category];
+
+   for (var i = 0; i < emails.length; i++) {
+
+    var email = emails[i];
+
+    var listItem = document.createElement("li");
+
+    listItem.textContent = email;
+
+    container.appendChild(listItem);
+
+   }
+
+  }
+
+  displayEmails("Google", "googleEmails");
+
+  displayEmails("Yahoo", "yahooEmails");
+
+  displayEmails("Hotmail", "hotmailEmails");
+
+  displayEmails("Others", "otherEmails");
+
+ </script>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
