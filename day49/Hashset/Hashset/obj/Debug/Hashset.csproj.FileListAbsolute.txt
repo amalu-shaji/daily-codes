@@ -1,0 +1,8 @@
+D:\UST\day49\Hashset\Hashset\bin\Debug\Hashset.exe.config
+D:\UST\day49\Hashset\Hashset\bin\Debug\Hashset.exe
+D:\UST\day49\Hashset\Hashset\bin\Debug\Hashset.pdb
+D:\UST\day49\Hashset\Hashset\obj\Debug\Hashset.csproj.AssemblyReference.cache
+D:\UST\day49\Hashset\Hashset\obj\Debug\Hashset.csproj.SuggestedBindingRedirects.cache
+D:\UST\day49\Hashset\Hashset\obj\Debug\Hashset.csproj.CoreCompileInputs.cache
+D:\UST\day49\Hashset\Hashset\obj\Debug\Hashset.exe
+D:\UST\day49\Hashset\Hashset\obj\Debug\Hashset.pdb

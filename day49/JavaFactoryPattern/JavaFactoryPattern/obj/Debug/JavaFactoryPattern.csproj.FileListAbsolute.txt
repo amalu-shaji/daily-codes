@@ -1,0 +1,8 @@
+D:\UST\day49\JavaFactoryPattern\JavaFactoryPattern\bin\Debug\JavaFactoryPattern.exe.config
+D:\UST\day49\JavaFactoryPattern\JavaFactoryPattern\bin\Debug\JavaFactoryPattern.exe
+D:\UST\day49\JavaFactoryPattern\JavaFactoryPattern\bin\Debug\JavaFactoryPattern.pdb
+D:\UST\day49\JavaFactoryPattern\JavaFactoryPattern\obj\Debug\JavaFactoryPattern.csproj.AssemblyReference.cache
+D:\UST\day49\JavaFactoryPattern\JavaFactoryPattern\obj\Debug\JavaFactoryPattern.csproj.SuggestedBindingRedirects.cache
+D:\UST\day49\JavaFactoryPattern\JavaFactoryPattern\obj\Debug\JavaFactoryPattern.csproj.CoreCompileInputs.cache
+D:\UST\day49\JavaFactoryPattern\JavaFactoryPattern\obj\Debug\JavaFactoryPattern.exe
+D:\UST\day49\JavaFactoryPattern\JavaFactoryPattern\obj\Debug\JavaFactoryPattern.pdb

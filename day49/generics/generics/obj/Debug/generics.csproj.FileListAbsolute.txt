@@ -1,0 +1,8 @@
+D:\UST\day49\generics\generics\bin\Debug\generics.exe.config
+D:\UST\day49\generics\generics\bin\Debug\generics.exe
+D:\UST\day49\generics\generics\bin\Debug\generics.pdb
+D:\UST\day49\generics\generics\obj\Debug\generics.csproj.AssemblyReference.cache
+D:\UST\day49\generics\generics\obj\Debug\generics.csproj.SuggestedBindingRedirects.cache
+D:\UST\day49\generics\generics\obj\Debug\generics.csproj.CoreCompileInputs.cache
+D:\UST\day49\generics\generics\obj\Debug\generics.exe
+D:\UST\day49\generics\generics\obj\Debug\generics.pdb
