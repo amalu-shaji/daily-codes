@@ -1,0 +1,8 @@
+D:\UST\day46\amalushaji30\bitset\bitset\bin\Debug\bitset.exe.config
+D:\UST\day46\amalushaji30\bitset\bitset\bin\Debug\bitset.exe
+D:\UST\day46\amalushaji30\bitset\bitset\bin\Debug\bitset.pdb
+D:\UST\day46\amalushaji30\bitset\bitset\obj\Debug\bitset.csproj.AssemblyReference.cache
+D:\UST\day46\amalushaji30\bitset\bitset\obj\Debug\bitset.csproj.SuggestedBindingRedirects.cache
+D:\UST\day46\amalushaji30\bitset\bitset\obj\Debug\bitset.csproj.CoreCompileInputs.cache
+D:\UST\day46\amalushaji30\bitset\bitset\obj\Debug\bitset.exe
+D:\UST\day46\amalushaji30\bitset\bitset\obj\Debug\bitset.pdb

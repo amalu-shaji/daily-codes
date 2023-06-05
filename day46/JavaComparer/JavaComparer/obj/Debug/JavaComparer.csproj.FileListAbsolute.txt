@@ -1,0 +1,8 @@
+D:\UST\day46\JavaComparer\JavaComparer\bin\Debug\JavaComparer.exe.config
+D:\UST\day46\JavaComparer\JavaComparer\bin\Debug\JavaComparer.exe
+D:\UST\day46\JavaComparer\JavaComparer\bin\Debug\JavaComparer.pdb
+D:\UST\day46\JavaComparer\JavaComparer\obj\Debug\JavaComparer.csproj.AssemblyReference.cache
+D:\UST\day46\JavaComparer\JavaComparer\obj\Debug\JavaComparer.csproj.SuggestedBindingRedirects.cache
+D:\UST\day46\JavaComparer\JavaComparer\obj\Debug\JavaComparer.csproj.CoreCompileInputs.cache
+D:\UST\day46\JavaComparer\JavaComparer\obj\Debug\JavaComparer.exe
+D:\UST\day46\JavaComparer\JavaComparer\obj\Debug\JavaComparer.pdb
