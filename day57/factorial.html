@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function factorial(x) {
+            if(x==0)
+            {
+            
+                return 1;
+            }
+            else
+            {
+                return x*factorial(x-1);
+
+            }
+        }
+
+        
+        const num=prompt('enter a positive number');
+        if (num>=0)
+        {
+        const result=factorial(num);
+        alert('the factorial sum is'+result);
+        }
+        else
+        {
+            alert('enter a positive number');
+        }
+    </script>
+    
+</body>
+</html>
