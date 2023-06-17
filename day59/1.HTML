@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>calculate area</p>
+
+    <button onclick ="document.getElementById('TRI')">triangle</button>
+    <button onclicK ="document.getElementById('qu')">square</button>
+    <form id="TRI">
+        <label>breadth</label>
+        <input id="breadth"><br><br>
+        <label>height</label>
+        <input id="height"><br><br>
+        <button type="button" onclick="triangle()">area</button>
+</form>
+        
+<script>
+    function triangle(){
+        
+        let b=document.getElementById("breadth").value;
+        let h=document.getElementById("height").value;
+
+let area =(b*h)/2;
+alert('area of triangle is' +area);
+    }
+</script>
+  
+
+    
+</body>
+</html>

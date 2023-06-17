@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Document</title>
+
+</head>
+
+<body>
+
+  <p><u>Caluculate Area</u></p>
+
+  <button onclick="document.getElementById('tri').style.display='block';">Triangle</button>
+
+  <button onclick="document.getElementById('sq').style.display='block';">Square</button><br><br>
+
+  <form id="tri" style="display: none;">
+
+    <label>breadth</label>
+
+    <input id="breadth" ><br><br>
+
+    <label>height</label>
+
+    <input id="height"><br><br>
+
+    <button type="button" onclick="triangle()">Area</button>
+
+    <p id="result1"></p>
+
+  </form>
+
+  <form id="sq" style="display: none;">
+
+    <label>Side</label>
+
+    <input id="side" ><br><br>
+
+    <button type="button" onclick="sqare()">Area</button>
+
+    <p id="result2"></p>
+
+  </form>
+
+  <script>
+
+    function triangle(){
+
+      let b=document.getElementById("breadth").value;
+
+      let h=document.getElementById("height").value;
+
+      let area=(b*h)/2;
+
+      document.getElementById("result1").innerHTML=`area of triangle ${area}`;
+
+    }
+
+    function sqare(){
+
+      let s=document.getElementById("side").value;
+
+      let area=s*s;
+
+      document.getElementById("result2").innerHTML=`area of square ${area}`;
+
+    }
+
+  </script>
+
+</body>
+
+</html>
+
